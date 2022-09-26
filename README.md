@@ -2,7 +2,7 @@
 
 ## Description
 
-Taylor Swift Fan Page! is the about her bio, her accolades and achievements. It also gives an insight into her work in the music industry, her studio albums and filmography.
+Taylor Swift Fan Page is the about her life,career, accolades and achievements. It also gives an insight into her work in the music industry, her studio albums and filmography.
 
 ## Table of Contents
 
@@ -22,8 +22,6 @@ Taylor Swift Fan Page! is the about her bio, her accolades and achievements. It 
 ## Usage
 
 This fan page can be used in any web browser or on any devices including the mobile devices.
-
-The following image is the demo screenshot of the deployed application.
 
 ## Technologies Used
 
