@@ -2,7 +2,7 @@
 
 ## Description
 
-Taylor Swift Fan Page is the about her life,career, accolades and achievements. It also gives an insight into her work in the music industry, her studio albums and filmography.
+Taylor Swift Fan Page is about her life, career, accolades and achievements. It also gives an insight into her work in the music industry, her studio albums and filmography.
 
 ## Table of Contents
 
@@ -37,4 +37,4 @@ This fan page can be used in any web browser or on any devices including the mob
 
 ## License
 
-This project is licensed under the [MIT](LICENSE.txt) license.
+This page is licensed under the [MIT](LICENSE.txt) license.
